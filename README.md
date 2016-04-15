@@ -17,6 +17,7 @@ visual editor on the Admin Edit Page of Wordpress.
 
 1) Download the code in this repository into the plugins directory of your
 Wordpress Installation
+
 2) Place the following code in the `functions.php` file of your active theme:
 
 ```
